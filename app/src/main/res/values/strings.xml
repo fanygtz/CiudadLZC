@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CiudadLZC</string>
+    <string name="titulo">Ciudad LZC</string>
+    <string name="title_activity_map_plaza">Map</string>
+    <string name="title_activity_map_playa">Map</string>
+    <string name="plaza">Plaza Las Americas</string>
+    <string name="playa">Playa Jardin</string>
+    <string name="malecon">Malecon</string>
+    <string name="palacio">Palacio Municipal</string>
+    <string name="cd">Cd. y Pto. Lázaro Cárdenas</string>
+    <string name="title_activity_map_malecon">Map</string>
+    <string name="title_activity_map_palacio">Map</string>
+</resources>
